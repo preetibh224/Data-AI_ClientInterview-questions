@@ -1,4 +1,4 @@
-Data & AI Interview Readiness Framework
+**Data & AI Interview Readiness Framework**
 
 
 Maintained by: NashTech AI Competency
